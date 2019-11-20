@@ -1,0 +1,299 @@
+/*
+* ========== Root style ========== *
+*/
+
+
+/* Define responsive root font-size */
+:root {
+    font-size: 0.75em;
+}
+
+@media (min-width: 800px) {
+    :root {
+        font-size: 0.875em;
+    }
+}
+
+@media (min-width: 1200px) {
+    :root {
+        font-size: 1em;
+    }
+}
+
+/* Set border-box as default box model */
+:root {
+    box-sizing: border-box;
+}
+
+*,
+::before,
+::after {
+    box-sizing: inherit;
+}
+
+
+/*
+* ========== Body style ========== *
+*/
+
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    display: block;
+    margin: 0;
+    line-height:1.2;
+    color: rgb(33, 37, 41);
+    background-color: #fff;
+}
+
+/* Prevents images from overflowing their containers */
+img {
+    max-width: 100%;
+}
+
+/* Reset all margin and padding to 0 */
+* {
+  margin: 0;
+  padding: 0;
+  margin-block-end: 0;  
+}
+
+/*
+* ========== Page style ========== *
+*/ 
+
+.hero-image {
+  background-image: url("lightning_air.jpg");
+  background-color: darkslategray;
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  position: relative;
+}
+
+.color-div:nth-child(6n) {
+  background-color: rgb(238,238,238);
+}
+
+.color-div:nth-child(6n+1) {
+  background-color: rgb(238,238,238);
+}
+
+.color-div:nth-child(6n+2) {
+  background-color: #393e46;
+}
+
+.color-div:nth-child(6n+3) {
+  background-color: #F0EC97;
+}
+
+.color-div:nth-child(6n+4) {
+  background-color: #EEB868;
+}
+
+.color-div:nth-child(6n+5) {
+  background-color: rgb(238,238,238);
+}
+
+.color-div {
+  min-height: 60vh;
+  overflow: hidden;
+}
+
+footer {
+  padding: 2em;
+  min-height: 6em;
+  background-color: rgb(8,8,8);
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-link {
+  color: rgb(238,238,238);
+  text-decoration: none;
+  margin-left: 1em;
+  margin-right: 1em;
+  font-weight: bolder;
+}
+
+
+.hero-title {
+  display: inline-block;
+  font-size: 3rem;
+  text-align: center;
+  color: white;
+  padding-top: 30vh;
+  padding-bottom: .5em;
+  border-bottom: 3px solid snow;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+.menu-icon {
+  height: 2em;
+  width: 2em;
+  position: absolute;
+  top: 2em;
+  right: 2em; 
+}
+
+.menu-icon:hover {
+  cursor: pointer;
+}
+
+.logo {
+  position: absolute;
+  top: 2rem;
+  left: 2rem;
+  color: snow;
+}
+
+.logo:hover {
+  cursor: pointer;
+}
+
+.content-container {
+    max-width: 1200px;
+    margin: 2em auto 0;
+    padding: 0 1em 1em 1em;
+    
+}
+
+.dark-content {
+  border-top: .5em solid rgb(8,8,8);
+  color: rgb(8,8,8);
+}
+
+.light-content {
+  border-top: .5em solid snow;
+  color: snow;
+}
+
+.content-header {
+  padding-top: 1em;
+}
+
+@media (min-width: 479px) {
+  .content-container {
+        padding: 0 2em 2em 2em;
+    }
+}
+
+.footer-logo-container {
+  margin-right: 3em;
+  display: flex;
+  flex-direction: column;
+}
+
+@media (min-width: 479px) {
+  .footer-logo-container {
+    flex-direction: row;
+  }
+}
+
+.logo-container {
+  position: absolute;
+  right: 3em;
+  bottom: 3em;
+}
+
+.footer-social-logo {
+  height: 1em;
+  width: 1em;
+  margin: 0.5em 0.5em;
+}
+
+.social-logo {
+  height: 2em;
+  margin-left: 2em;
+  width: 2em;
+}
+
+.social-logo:hover, .footer-social-logo:hover {
+  cursor: pointer;
+}
+
+.tile-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3em;
+  flex-direction: column;
+}
+
+@media (min-width: 479px) {
+  .tile-container {
+    flex-direction: row;
+  }
+}
+
+.tile {
+  width: 24em;
+}
+
+.tile {
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-bottom: 2em;
+}
+
+.tile-img {
+  width: 100%;
+}
+
+.tile-header {
+  margin-top: 0.5em;
+  font-size: 1rem;
+  font-weight: bolder;
+}
+
+.tile p {
+  padding-top: 1em;
+  font-size: 0.9rem;
+}
+
+.banner-tile {
+  background-color: snow;
+  color: #393e46;
+  margin: 2em;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 2em;
+  overflow: hidden;
+}
+
+.banner-tile-img {
+  width: 20em;
+}
+
+.banner-tile-text {
+  margin: 2em;
+  border-top: 0.5em solid #393e46;
+}
+
+.banner-tile-text h1 {
+  margin-top: .5em;
+}
+
+.banner-tile-text p {
+  margin-top: 1em;
+}
+
+.arrow {
+  width: 2em;
+  margin-top: 2em;
+}
+
+.arrow:hover {
+  cursor: pointer;
+}
+
+@media (max-width: 479px) {
+  .banner-tile {
+    border-radius: 0;
+    flex-direction: column;
+  }
+}

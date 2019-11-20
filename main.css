@@ -296,4 +296,7 @@ footer {
     border-radius: 0;
     flex-direction: column;
   }
+  .banner-tile-image {
+    width: 100%;
+  }
 }

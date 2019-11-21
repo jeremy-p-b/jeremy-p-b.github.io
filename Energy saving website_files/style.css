@@ -1,0 +1,273 @@
+/*
+* === Body style ===
+*/
+
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Montserrat', Georgia, Arial, Sans-Serif;
+}
+
+.ec-subheader {
+    background-color: #bce6fe;
+    overflow: hidden;
+    padding: 1em;
+}
+
+.btn {
+    cursor:pointer;
+}
+
+/*
+* === Nav style ===
+*/
+
+
+nav.navbar {
+    padding: 0.25rem 0.5rem;
+    background-color: #3A5584;
+}
+
+.navbar-light .navbar-brand {
+    padding-top:0.1rem;
+    color: snow;
+    font-weight: bolder;
+}
+
+.navbar-light .navbar-toggler {
+    margin-top: 0.25rem;
+}
+
+.navbar-light .navbar-toggler .navbar-toggler-icon{
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.navbar-nav .nav-item {
+    border-bottom: 3px solid #3A5584;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color:snow;
+    font-weight: bolder;
+}
+
+/*
+* — Changing hover functionality —
+*/
+
+.navbar-light .navbar-brand:hover {
+  color: snow;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: snow;
+}
+
+.navbar-nav .nav-item:hover {
+    border-bottom: 3px solid snow;
+}
+
+/*
+* === Home page ===
+*/
+.card {
+    cursor:pointer;
+    border:3px solid rgb(247, 247, 249);
+}
+.card:hover {
+    border:3px solid #3A5584;
+}
+.card a {
+    color: #292b2c;
+    font-weight: 700;
+}
+.card-title {
+    min-height: 45px;
+    font-weight: bolder;
+    font-size: 1.1rem;
+}
+.card-text {
+    font-weight: normal;
+    font-size: 0.9rem;
+}
+.card a:hover {
+    text-decoration: none;
+}
+
+
+.btn-lg {
+    background-color: #3A5584;
+    color: snow;
+    border-color: rgb(41,43,44);
+    font-family: 'Montserrat', Georgia, Arial, Sans-Serif;
+    font-weight: bolder;
+}
+
+.btn-lg:hover{
+    color: #3A5584;
+    background-color: snow;
+}
+
+figure {
+    display: inline-block;
+}
+
+.hp-second-block {
+    background-color: white;
+}
+
+.jumbotron{
+    background-color: white;
+    border: 3px solid rgb(247, 247, 249);
+}
+
+/*
+* === Form style ===
+*/
+
+
+.form-heading h4 {
+    font-weight: 600;
+}
+
+.logo-select > input{ /* HIDE RADIO */
+  visibility: hidden; /* Makes input not-clickable */
+  position: absolute; /* Remove input from document flow */
+}
+.logo-select > input + img{ /* IMAGE STYLES */
+  cursor:pointer;
+  border:2px solid transparent;
+}
+.logo-select {
+    border:1px solid #a1cbfb;
+}
+
+.logo-select > input:checked + img{ /* (RADIO CHECKED) IMAGE STYLES */
+  border:2px solid #3eb7ff;
+}
+
+.minorhr {
+    background-color: #a1cbfb;
+}
+
+.majorhr {
+    height: 2px;
+    background-color: #a1cbfb;
+}
+/*
+* === Results style ===
+*/
+
+.results table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+
+.results td,.results th {
+    text-align: center;
+    width: 200px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-collapse: collapse;
+    padding: 2px;
+}
+
+.company-logo {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+/*
+* === Info page style style ===
+*/
+
+.info td {
+    text-align: left;
+}
+
+.info thead th {
+    text-align: center;
+    vertical-align: top;
+}
+.info .infotitle {
+    border-bottom: 1px solid black;
+}
+
+/*
+* === Blog index page style style ===
+*/
+
+.blog-index {
+    border-left: 0.5rem solid white;
+    box-shadow: 0 0 0 0.2rem rgb(247, 247, 249);
+}
+
+.blog-index:hover {
+    border-left: 0.5rem solid rgb(247, 247, 249);
+}
+
+.blog-index h3 {
+    min-height: 60px;
+    font-weight: bolder;
+    font-size: 1.3rem;
+}
+
+.blog-index-container a, a:hover {
+    color: #292b2c;
+    text-decoration: none;
+}
+
+
+.blog-index h4 {
+    font-weight: normal;
+    font-size: 1.1rem;
+}
+
+
+
+/*
+* === Footer style ===
+*/
+
+
+.footer-link {
+    background-color:#3A5584;
+    color: snow;
+    font-size: 16px;
+    font-weight: bolder;
+}
+.contact-link {
+    font-size: 13px;
+    color: snow;
+}
+
+.footer-link a {
+    font-size: 13px;
+    color: snow;
+}
+
+.footer {
+  background-color: #bce6fe;
+  font-size: 13px;
+  text-align: center;
+  font-weight: 900;
+  color: #3A5584;
+}
+
+
+/* Sticky footer styles
+-------------------------------------------------- */
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+    /* Margin bottom by footer height */
+}
+
+.ec-content {
+    flex: 1;
+}
+
+

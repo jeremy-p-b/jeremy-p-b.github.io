@@ -1,0 +1,43 @@
+---
+date: "2022-10-24"
+design:
+  spacing: 6rem
+sections:
+- block: resume-biography-3
+  content:
+    text: ""
+  design:
+    background:
+    css_class: light
+- block: collection
+  content:
+    filters:
+      featured_only: true
+      folders:
+      - publication
+    title: Featured Publications
+  design:
+    columns: 2
+    view: article-grid
+  id: papers
+- block: collection
+  content:
+    filters:
+      exclude_featured: false
+      folders:
+      - publication
+    text: ""
+    title: Recent Publications
+  design:
+    view: citation
+- block: collection
+  content:
+    filters:
+      folders:
+      - event
+    title: Recent & Upcoming Talks
+  design:
+    columns: 1
+    view: article-grid
+  id: talks
+---

@@ -1,0 +1,32 @@
+---
+title: Use of Real-World Data and Machine Learning to Screen for Maternal and Paternal
+  Characteristics Associated with Cardiac Malformations
+authors:
+- Jeremy Brown
+- Krista Huybrechts
+- Loreen Straub
+- Dominik Heider
+- Brian Bateman
+- Sonia Hernandez-Diaz
+date: '2024-01-01'
+publishDate: '2024-06-13T05:10:07.724701Z'
+publication_types:
+- article-journal
+doi: 10.21203/rs.3.rs-4490534/v1
+abstract: <p>Effective prevention of cardiac malformations, a leading cause of infant
+  morbidity, is constrained by limited understanding of etiology. The study objective
+  was to screen for associations between maternal and paternal characteristics and
+  cardiac malformations. We selected 720,381 pregnancies linked to live-born infants
+  (n=9,076 cardiac malformations) in 2011-2021 MarketScan US insurance claims data.
+  Odds ratios were estimated with clinical diagnostic and medication codes using logistic
+  regression. Screening of 2,000 associations selected 81 associated codes at the
+  5% false discovery rate. Grouping of selected codes, using latent semantic analysis
+  and the Apriori-SD algorithm, identified elevated risk with known risk factors,
+  including maternal diabetes and chronic hypertension. Less recognized potential
+  signals included maternal fingolimod or azathioprine use. Signals identified might
+  be explained by confounding, measurement error, and selection bias and warrant further
+  investigation. The screening methods employed identified known risk factors, suggesting
+  potential utility for identifying novel risk factors for other pregnancy outcomes.</p>
+tags:
+- ''
+---

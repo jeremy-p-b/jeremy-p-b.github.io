@@ -1,0 +1,22 @@
+---
+address:
+  city: Boston
+  region: MA
+  postcode: 02111
+  country: USA
+all_day: false
+reading_time: false
+authors:
+- admin
+date: "2023-01-26T13:00:00Z"
+date_end: "2023-01-26T14:00:00Z"
+event: Invited talk
+featured: false
+location: Tufts Medical Center
+publishDate: "2024-06-13T00:00:00Z"
+slides: ""
+summary: Talk at Tufts University
+tags: []
+title: The Elephant in the Room: Unmeasured Confounding in Pharmacoepidemiology
+---
+

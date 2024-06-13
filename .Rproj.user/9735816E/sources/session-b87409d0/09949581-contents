@@ -1,0 +1,282 @@
+@article{10.21203/rs.3.rs-4490534/v1,
+year = {2024},
+title = {{Use of Real-World Data and Machine Learning to Screen for Maternal and Paternal Characteristics Associated with Cardiac Malformations}},
+author = {Brown, Jeremy and Huybrechts, Krista and Straub, Loreen and Heider, Dominik and Bateman, Brian and Hernandez-Diaz, Sonia},
+doi = {10.21203/rs.3.rs-4490534/v1},
+abstract = {{<p>Effective prevention of cardiac malformations, a leading cause of infant morbidity, is constrained by limited understanding of etiology. The study objective was to screen for associations between maternal and paternal characteristics and cardiac malformations. We selected 720,381 pregnancies linked to live-born infants (n=9,076 cardiac malformations) in 2011-2021 MarketScan US insurance claims data. Odds ratios were estimated with clinical diagnostic and medication codes using logistic regression. Screening of 2,000 associations selected 81 associated codes at the 5\% false discovery rate. Grouping of selected codes, using latent semantic analysis and the Apriori-SD algorithm, identified elevated risk with known risk factors, including maternal diabetes and chronic hypertension. Less recognized potential signals included maternal fingolimod or azathioprine use. Signals identified might be explained by confounding, measurement error, and selection bias and warrant further investigation. The screening methods employed identified known risk factors, suggesting potential utility for identifying novel risk factors for other pregnancy outcomes.</p>}},
+keywords = {}
+}
+
+
+@incollection{atkin2019economic,
+  title={Economic evaluation of faecal immunochemical tests versus colonoscopy surveillance},
+  author={Atkin, Wendy and Cross, Amanda J and Kralj-Hans, Ines and MacRae, Eilidh and Piggott, Carolyn and Pearson, Sheena and Wooldrage, Kate and Brown, Jeremy and Lucas, Fiona and Prendergast, Aaron and others},
+  booktitle={Faecal immunochemical tests versus colonoscopy for post-polypectomy surveillance: an accuracy, acceptability and economic study},
+  year={2019},
+  publisher={NIHR Journals Library}
+}
+
+@article{brown2016determinants,
+  title={Determinants of time to antiretroviral treatment initiation and subsequent mortality on treatment in a cohort in rural northern Malawi},
+  author={Brown, Jeremy Philip and Ngwira, Bagrey and Tafatatha, Terence and Crampin, Amelia Catharine and French, Neil and Koole, Olivier},
+  journal={AIDS research and therapy},
+  volume={13},
+  number={1},
+  pages={1--11},
+  year={2016},
+  publisher={BioMed Central}
+}
+
+@article{atkin2019faecal,
+  title={Faecal immunochemical tests versus colonoscopy for post-polypectomy surveillance: an accuracy, acceptability and economic study},
+  author={Atkin, Wendy and Cross, Amanda J and Kralj-Hans, Ines and MacRae, Eilidh and Piggott, Carolyn and Pearson, Sheena and Wooldrage, Kate and Brown, Jeremy and Lucas, Fiona and Prendergast, Aaron and others},
+  journal={Health Technology Assessment},
+  volume={23},
+  number={1},
+  pages={1--84},
+  year={2019}
+}
+
+@article{cross2019whole,
+  title={Whole-colon investigation vs. flexible sigmoidoscopy for suspected colorectal cancer based on presenting symptoms and signs: a multicentre cohort study},
+  author={Cross, Amanda J and Wooldrage, Kate and Robbins, Emma C and Pack, Kevin and Brown, Jeremy P and Hamilton, William and Thompson, Michael R and Flashman, Karen G and Halligan, Steve and Thomas-Gibson, Siwan and others},
+  journal={British journal of cancer},
+  volume={120},
+  number={2},
+  pages={154--164},
+  year={2019},
+  publisher={Nature Publishing Group}
+}
+
+@article{atkin2017whole,
+  title={Is whole-colon investigation by colonoscopy, computerised tomography colonography or barium enema necessary for all patients with colorectal cancer symptoms, and for which patients would flexible sigmoidoscopy suffice? A retrospective cohort study},
+  author={Atkin, Wendy and Wooldrage, Kate and Shah, Urvi and Skinner, Kate and Brown, Jeremy P and Hamilton, Willie and Kralj-Hans, Ines and Thompson, Michael R and Flashman, Karen G and Halligan, Steve and others},
+  journal={Health Technology Assessment},
+  volume={21},
+  number={66},
+  year={2017},
+  publisher={NIHR Journals Library}
+}
+
+@article{brown2018high,
+  title={High test positivity and low positive predictive value for colorectal cancer of continued faecal occult blood test screening after negative colonoscopy},
+  author={Brown, Jeremy P and Wooldrage, Kate and Wright, Suzanne and Nickerson, Claire and Cross, Amanda J and Atkin, Wendy S},
+  journal={Journal of medical screening},
+  volume={25},
+  number={2},
+  pages={70--75},
+  year={2018},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@article{brown2019use,
+  title={Use of real-world evidence in postmarketing medicines regulation in the European Union: a systematic assessment of European Medicines Agency referrals 2013--2017},
+  author={Brown, Jeremy Philip and Wing, Kevin and Evans, Stephen J and Bhaskaran, Krishnan and Smeeth, Liam and Douglas, Ian J},
+  journal={BMJ open},
+  volume={9},
+  number={10},
+  pages={e028133},
+  year={2019},
+  publisher={British Medical Journal Publishing Group}
+}
+
+@article{brown2019effect,
+  title={Effect of once-only flexible sigmoidoscopy screening on the outcomes of subsequent faecal occult blood test screening},
+  author={Brown, Jeremy P and Wooldrage, Kate and Kralj-Hans, Ines and Wright, Suzanne and Cross, Amanda J and Atkin, Wendy S},
+  journal={Journal of medical screening},
+  volume={26},
+  number={1},
+  pages={11--18},
+  year={2019},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@article{atkin2017adenoma,
+  title={Adenoma surveillance and colorectal cancer incidence: a retrospective, multicentre, cohort study},
+  author={Atkin, Wendy and Wooldrage, Kate and Brenner, Amy and Martin, Jessica and Shah, Urvi and Perera, Sajith and Lucas, Fiona and Brown, Jeremy P and Kralj-Hans, Ines and Greliak, Paul and others},
+  journal={The lancet oncology},
+  volume={18},
+  number={6},
+  pages={823--834},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@article{root2019association,
+  title={Association of relative age in the school year with diagnosis of intellectual disability, attention-deficit/hyperactivity disorder, and depression},
+  author={Root, Adrian and Brown, Jeremy P and Forbes, Harriet J and Bhaskaran, Krishnan and Hayes, Joseph and Smeeth, Liam and Douglas, Ian J},
+  journal={JAMA pediatrics},
+  volume={173},
+  number={11},
+  pages={1068--1075},
+  year={2019},
+  publisher={American Medical Association}
+}
+
+@article{wong2021use,
+  title={Use of non-steroidal anti-inflammatory drugs and risk of death from COVID-19: an OpenSAFELY cohort analysis based on two cohorts},
+  author={Wong, Angel YS and MacKenna, Brian and Morton, Caroline E and Schultze, Anna and Walker, Alex J and Bhaskaran, Krishnan and Brown, Jeremy P and Rentsch, Christopher T and Williamson, Elizabeth and Drysdale, Henry and others},
+  journal={Annals of the rheumatic diseases},
+  volume={80},
+  number={7},
+  pages={943--951},
+  year={2021},
+  publisher={BMJ Publishing Group Ltd}
+}
+
+@article{schultze2020risk,
+  title={Risk of COVID-19-related death among patients with chronic obstructive pulmonary disease or asthma prescribed inhaled corticosteroids: an observational cohort study using the OpenSAFELY platform},
+  author={Schultze, Anna and Walker, Alex J and MacKenna, Brian and Morton, Caroline E and Bhaskaran, Krishnan and Brown, Jeremy P and Rentsch, Christopher T and Williamson, Elizabeth and Drysdale, Henry and Croker, Richard and others},
+  journal={The Lancet Respiratory Medicine},
+  volume={8},
+  number={11},
+  pages={1106--1120},
+  year={2020},
+  publisher={Elsevier}
+}
+
+@misc{brown2021measuring,
+  title={Measuring the Effectiveness of Real-World Evidence to Ensure Appropriate Impact},
+  author={Brown, Jeremy P and Douglas, Ian J and Hanif, Shahid and Thwaites, Robert MA and Bate, Andrew},
+  journal={Value in Health},
+  volume={24},
+  number={9},
+  pages={1241--1244},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@article{rentsch2021effect,
+  title={Effect of pre-exposure use of hydroxychloroquine on COVID-19 mortality: a population-based cohort study in patients with rheumatoid arthritis or systemic lupus erythematosus using the OpenSAFELY platform},
+  author={Rentsch, Christopher T and DeVito, Nicholas J and MacKenna, Brian and Morton, Caroline E and Bhaskaran, Krishnan and Brown, Jeremy P and Schultze, Anna and Hulme, William J and Croker, Richard and Walker, Alex J and others},
+  journal={The Lancet Rheumatology},
+  volume={3},
+  number={1},
+  pages={e19--e27},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@article{forbes2021association,
+  title={Association between living with children and outcomes from covid-19: OpenSAFELY cohort study of 12 million adults in England},
+  author={Forbes, Harriet and Morton, Caroline E and Bacon, Seb and McDonald, Helen I and Minassian, Caroline and Brown, Jeremy P and Rentsch, Christopher T and Mathur, Rohini and Schultze, Anna and DeVito, Nicholas J and others},
+  journal={bmj},
+  volume={372},
+  year={2021},
+  publisher={British Medical Journal Publishing Group}
+}
+
+@article{brown2021proton,
+  title={Proton pump inhibitors and risk of all-cause and cause-specific mortality: A cohort study},
+  author={Brown, Jeremy P and Tazare, John R and Williamson, Elizabeth and Mansfield, Kathryn E and Evans, Stephen J and Tomlinson, Laurie A and Bhaskaran, Krishnan and Smeeth, Liam and Wing, Kevin and Douglas, Ian J},
+  journal={British journal of clinical pharmacology},
+  year={2021},
+  publisher={Wiley Online Library}
+}
+
+@article{mesle2021estimated,
+  title={Estimated number of deaths directly averted in people 60 years and older as a result of COVID-19 vaccination in the WHO European Region, December 2020 to November 2021},
+  author={Mesl{\'e}, Margaux MI and Brown, Jeremy and Mook, Piers and Hagan, Jos{\'e} and Pastore, Roberta and Bundle, Nick and Spiteri, Gianfranco and Ravasi, Giovanni and Nicolay, Nathalie and Andrews, Nick and others},
+  journal={Eurosurveillance},
+  volume={26},
+  number={47},
+  pages={2101021},
+  year={2021},
+  publisher={European Centre for Disease Prevention and Control}
+}
+
+@article{chui2022proton,
+  title={Proton pump inhibitors and myocardial infarction: an application of active comparators in a self-controlled case series.},
+  author={Chui, Celine SL and Cheung, Ka Shing and Brown, Jeremy P and Douglas, Ian J and Wong, Ian CK and Chan, Esther W and Wong, Angel},
+  journal={International journal of epidemiology},
+  pages={dyac196},
+  year={2022},
+  publisher={Oxford University Press}
+}
+
+@article{brown2023association,
+  title={Association Between Fluoroquinolone Use and Hospitalization With Aortic Aneurysm or Aortic Dissection},
+  author={Brown, Jeremy P and Wing, Kevin and Leyrat, Cl{\'e}mence and Evans, Stephen J and Mansfield, Kathryn E and Wong, Angel YS and Smeeth, Liam and Galwey, Nicholas W and Douglas, Ian J},
+  journal={JAMA cardiology},
+  volume={8},
+  number={9},
+  pages={865--870},
+  year={2023},
+  publisher={American Medical Association}
+}
+
+@article{brown2024quantifying,
+  title={Quantifying possible bias in clinical and epidemiological studies with quantitative bias analysis: common approaches and limitations},
+  author={Brown, Jeremy P and Hunnicutt, Jacob N and Ali, M Sanni and Bhaskaran, Krishnan and Cole, Ashley and Langan, Sinead M and Nitsch, Dorothea and Rentsch, Christopher T and Galwey, Nicholas W and Wing, Kevin and others},
+  journal={bmj},
+  volume={385},
+  year={2024},
+  publisher={British Medical Journal Publishing Group}
+}
+
+@article{brown2024systemic,
+  title={Systemic Fluoroquinolone Use and Risk of Uveitis or Retinal Detachment},
+  author={Brown, Jeremy P and Wing, Kevin and Evans, Stephen J and Leyrat, Cl{\'e}mence and Mansfield, Kathryn E and Smeeth, Liam and Wong, Angel YS and Yorston, David and Galwey, Nicholas W and Douglas, Ian J},
+  journal={JAMA ophthalmology},
+  year={2024}
+}
+
+@article{brown2024accounting,
+  title={Accounting for Twins and Other Multiple Births in Perinatal Studies Conducted Using Healthcare Administration Data},
+  author={Brown, Jeremy P and Williams, Paige L and Huybrechts, Krista F and Hern{\'a}ndez-D{\'\i}az, Sonia and others},
+  journal={medRxiv},
+  year={2024},
+  publisher={Cold Spring Harbor Laboratory Preprints}
+}
+
+@article{mesle2024estimated,
+  title={Estimated number of lives directly saved by COVID-19 vaccination programs in the WHO European Region, December 2020 to March 2023},
+  author={Mesle, Margaux MI and Brown, Jeremy and Mook, Piers and Katz, Mark A and Hagan, Jose and Pastore, Roberta and Nitzan, Dorit and Benka, Bernhard and Redlberger-Fritz, Monika and Bossuyt, Nathalie and others},
+  journal={medRxiv},
+  pages={2024--01},
+  year={2024},
+  publisher={Cold Spring Harbor Laboratory Press}
+}
+
+@article{abtahi2023impact,
+  title={Impact of 2018 EU risk minimisation measures and revised pregnancy prevention programme on utilisation and prescribing trends of medicinal products containing valproate: an interrupted time series study},
+  author={Abtahi, Shahab and Pajouheshnia, Romin and Dur{\'a}n, Carlos E and Riera-Arnau, Judit and Gamba, Magdalena and Alsina, Ema and Hoxhaj, Vjola and Andersen, Morten and Bartolini, Claudia and Kristiansen, Sarah Br{\o}gger and others},
+  journal={Drug Safety},
+  volume={46},
+  number={7},
+  pages={689--702},
+  year={2023},
+  publisher={Springer}
+}
+
+@article{opensafely2021association,
+  title={Association between warfarin and COVID-19-related outcomes compared with direct oral anticoagulants: population-based cohort study},
+  author={OpenSAFELY Collaborative and Wong, Angel YS and Tomlinson, Laurie A and Brown, Jeremy P and Elson, William and Walker, Alex J and Schultze, Anna and Morton, Caroline E and Evans, David and Inglesby, Peter and others},
+  journal={Journal of hematology \& oncology},
+  volume={14},
+  pages={1--10},
+  year={2021},
+  publisher={Springer}
+}
+
+@article{mackenna2022risk,
+  title={Risk of severe COVID-19 outcomes associated with immune-mediated inflammatory diseases and immune-modifying therapies: a nationwide cohort study in the OpenSAFELY platform},
+  author={MacKenna, Brian and Kennedy, Nicholas A and Mehrkar, Amir and Rowan, Anna and Galloway, James and Matthewman, Julian and Mansfield, Kathryn E and Bechman, Katie and Yates, Mark and Brown, Jeremy and others},
+  journal={The Lancet Rheumatology},
+  volume={4},
+  number={7},
+  pages={e490--e506},
+  year={2022},
+  publisher={Elsevier}
+}
+
+@article{wong2022association,
+  title={Association between oral anticoagulants and COVID-19-related outcomes: a population-based cohort study},
+  author={Wong, Angel YS and Tomlinson, Laurie and Brown, Jeremy P and Elson, William and Walker, Alex J and Schultze, Anna and Morton, Caroline E and Evans, David and Inglesby, Peter and MacKenna, Brian and others},
+  journal={British Journal of General Practice},
+  volume={72},
+  number={720},
+  pages={e456--e463},
+  year={2022},
+  publisher={British Journal of General Practice}
+}

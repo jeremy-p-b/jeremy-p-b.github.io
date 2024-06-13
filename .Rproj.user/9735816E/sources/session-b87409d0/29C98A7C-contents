@@ -1,0 +1,24 @@
+---
+address:
+  city: London
+  region: Greater London
+  postcode: WC1E 7HT
+  country: UK
+all_day: false
+reading_time: false
+authors:
+- admin
+date: "2023-11-14T17:30:00Z"
+date_end: "2023-11-14T19:00:00Z"
+event: Health Data Interest Group Talk
+featured: false
+location: London School of Hygiene and Tropical Medicine
+projects:
+- example
+publishDate: "2024-06-13T00:00:00Z"
+slides: ""
+summary: Health Data Interest Group Talk at the London School of Hygiene and Tropical Medicine.
+tags: []
+title: Reducing, diagnosing, and quantifying potential unmeasured confounding in epidemiological studies of drug safety and effectiveness
+---
+

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | Jeremy Brown</title>
+    <link>https://jeremybrown.github.io/event/</link>
+      <atom:link href="https://jeremybrown.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jeremybrown.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Talks</title>
+      <link>https://jeremybrown.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>Accounting for Twins and Other Multiple Births in Perinatal Pharmacoepidemiological Studies Conducted Using Healthcare Administration Data</title>
+      <link>https://jeremybrown.github.io/event/2024_icpe/</link>
+      <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://jeremybrown.github.io/event/2024_icpe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative Bias Analysis</title>
+      <link>https://jeremybrown.github.io/event/2024_qba_tsukuba/</link>
+      <pubDate>Thu, 06 Jun 2024 17:30:00 +0000</pubDate>
+      <guid>https://jeremybrown.github.io/event/2024_qba_tsukuba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing, diagnosing, and quantifying potential unmeasured confounding in epidemiological studies of drug safety and effectiveness</title>
+      <link>https://jeremybrown.github.io/event/2023_lshtm/</link>
+      <pubDate>Tue, 14 Nov 2023 17:30:00 +0000</pubDate>
+      <guid>https://jeremybrown.github.io/event/2023_lshtm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Elephant in the Room - Unmeasured Confounding in Pharmacoepidemiology</title>
+      <link>https://jeremybrown.github.io/event/2023_tufts/</link>
+      <pubDate>Thu, 26 Jan 2023 13:00:00 +0000</pubDate>
+      <guid>https://jeremybrown.github.io/event/2023_tufts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -8,7 +8,7 @@ organizations:
 profiles:
 - icon: at-symbol
   label: E-mail Me
-  url: mailto:your-email@example.com
+  url: mailto:jeremybrown@hsph.harvard.edu
 - icon: brands/x
   url: https://x.com/jeremy_pbrown
 - icon: brands/github

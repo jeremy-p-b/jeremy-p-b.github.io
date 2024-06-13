@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chapter | Jeremy Brown</title>
-    <link>https://jeremybrown.github.io/publication_types/chapter/</link>
-      <atom:link href="https://jeremybrown.github.io/publication_types/chapter/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/publication_types/chapter/</link>
+      <atom:link href="http://localhost:4321/publication_types/chapter/index.xml" rel="self" type="application/rss+xml" />
     <description>Chapter</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jeremybrown.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Chapter</title>
-      <link>https://jeremybrown.github.io/publication_types/chapter/</link>
+      <link>http://localhost:4321/publication_types/chapter/</link>
     </image>
     
     <item>
       <title>Economic evaluation of faecal immunochemical tests versus colonoscopy surveillance</title>
-      <link>https://jeremybrown.github.io/publication/atkin-2019-economic/</link>
+      <link>http://localhost:4321/publication/atkin-2019-economic/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jeremybrown.github.io/publication/atkin-2019-economic/</guid>
+      <guid>http://localhost:4321/publication/atkin-2019-economic/</guid>
       <description></description>
     </item>
     

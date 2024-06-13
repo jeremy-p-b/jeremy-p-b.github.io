@@ -17,7 +17,7 @@ marketing:
     description: 'Personal academic website of Dr. Jeremy Brown.'
     twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-T78TBK205T'
     baidu_tongji: ''
     plausible: ''
     fathom: ''

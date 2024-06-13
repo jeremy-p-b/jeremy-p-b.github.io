@@ -26,9 +26,7 @@ title: Jeremy Brown
 
 ## About 
 
-I am a postdoctoral research fellow within the CAUSALab within the Department of Epidemiology at Harvard T.H. Chan School of Public Health. My research examines the safety and effectiveness of medications using routinely collected data (electronic health records and insurance claims). A particular focus of my research is the use of statistical and causal inference methods, such as quantitative bias analysis and self-controlled study designs, to provide robust evidence.
-
-Recently a focus of my research has been the effects of medications in pregnancy.
+I am a postdoctoral research fellow within the CAUSALab within the Department of Epidemiology at Harvard T.H. Chan School of Public Health. My research examines the safety and effectiveness of medications through observational studies using routinely collected data (electronic health records and insurance claims). A particular focus of my research is the use of statistical and causal inference methods, such as quantitative bias analysis and self-controlled study designs, to provide robust evidence.
 
 I completed a PhD in pharmacoepidemiology at the London School of Hygiene and Tropical Medicine. I have an MSc in the Control of Infectious Diseases from the London School of Hygiene and Tropical Medicine and a BA in Biological Sciences from the University of Oxford.
 

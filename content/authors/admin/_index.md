@@ -9,8 +9,6 @@ profiles:
 - icon: at-symbol
   label: E-mail Me
   url: mailto:jeremybrown@hsph.harvard.edu
-- icon: brands/x
-  url: https://x.com/jeremy_pbrown
 - icon: brands/github
   url: https://github.com/jeremy-p-b
 - icon: academicons/google-scholar
@@ -18,7 +16,7 @@ profiles:
 - icon: academicons/researchgate
   url: https://www.researchgate.net/profile/Jeremy-Brown-12
 - icon: academicons/pubmed
-  url: https://www.ncbi.nlm.nih.gov/myncbi/collections/mybibliography/
+  url: https://www.ncbi.nlm.nih.gov/myncbi/jeremy.brown.4/bibliography/public/
 role: Postdoctoral Research Fellow
 superuser: true
 title: Jeremy Brown
